@@ -3,16 +3,16 @@ layout: default
 title: Home
 ---
 # Welcome! স্বাগতম!
-This website is meant to be an introduction to Bengali grammar.
+Welcome to Bangla Basics!
+Here you can learn [**Bangla**](https://en.wikipedia.org/wiki/Bangla_language) (also known as Bengali) for free!
 We'll cover both the standard written language
-as well as the dialect of Bengali spoken in Dhaka, Bangladesh.
-While Bengali can be intimidating for English speakers,
-I've tried to make this guide approachable for learners of any level.
+as well as the dialect of Bangla spoken in Dhaka, the capital of Bangladesh.
+Our content is free for everyone!
 
-We'll cover the fundamentals of Bengali grammar in a few parts:
-1. **Introduction**
-2. **Writing**
-3. **Nouns**
-4. **Pronouns**
-5. **Verbs**
-6. **Word Order**
+This website is divided into three major sections:
+- [**Lessons**](/lessons) contains all of our Bangla lessons.
+  Beginners should start here!
+- [**Reference**](/reference) features grammatical tables and other reference materials.
+- [**Resources**](/resources) is a list of other resources that you might find helpful.
+
+Start learning Bangla today!

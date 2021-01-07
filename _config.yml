@@ -1,11 +1,12 @@
-title: Bengali Grammar Basics
-description: An introduction to the grammar of the Bengali language
+title: Bangla Basics
+description: Learn Bengali online for free!
 date_format: "%b %-d, %Y"
-author: Shaandro Sarkar
-email: shaandrosarkar@gmail.com
-minima:
-  social_links:
-    twitter: ssshaiwala
-    github: shaandro
-    linkedin: shaandro
+include:
+  - _pages
+collections:
+  _pages:
+    output: true
+    permalink: /:path/
+
+permalink: pretty
 theme: minima
