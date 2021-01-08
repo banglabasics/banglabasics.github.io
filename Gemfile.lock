@@ -259,6 +259,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
+  jekyll-relative-links
 
 BUNDLED WITH
    2.2.4
