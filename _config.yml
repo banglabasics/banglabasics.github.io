@@ -1,5 +1,6 @@
 title: Bangla Basics
 description: Learn Bengali online for free!
 date_format: "%b %-d, %Y"
+baseurl: /bangla
 permalink: pretty
 theme: minima
