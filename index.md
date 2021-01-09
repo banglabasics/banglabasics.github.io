@@ -4,7 +4,7 @@ title: Home
 ---
 # Welcome! স্বাগতম!
 Welcome to Bangla Basics!
-Here you can learn [**Bangla**](https://en.wikipedia.org/wiki/Bangla_language) (also known as Bengali) for free!
+Here you can learn <a href="https://en.wikipedia.org/wiki/Bengali_language" target="_blank">**Bangla**</a> (also known as Bengali) for free!
 We'll cover both the standard written language
 as well as the dialect of Bangla spoken in Dhaka, the capital of Bangladesh.
 Our content is free for everyone!
@@ -12,7 +12,7 @@ Our content is free for everyone!
 This website is divided into three major sections:
 - [**Lessons**](/bangla/lessons) contains all of our Bangla lessons.
   Beginners should start here!
-- [**Reference**](/bangla/reference) features grammatical tables and other reference materials.
+- [**Cheat Sheets**](/bangla/cheat-sheets) are quick reference pages, including the alphabet and grammatical tables.
 - [**Resources**](/bangla/resources) is a list of other resources that you might find helpful.
 
 Start learning Bangla today!

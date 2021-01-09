@@ -6,7 +6,7 @@ header_pages:
   - index.md
   - about.md
   - lessons.md
-  - reference.md
+  - cheat-sheets.md
   - resources.md
 permalink: pretty
 theme: minima
