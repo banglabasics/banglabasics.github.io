@@ -10,4 +10,4 @@ I've included page numbers from Thompson's book throughout these pages for furth
 
 [**Pronunciation**](/bangla/cheat-sheets/pronunciation/)
 
-[**Bangla Alphabet**](/bangla/cheat-sheets/alphabet/)
+<!-- [**Bangla Alphabet**](/bangla/cheat-sheets/alphabet/) -->
