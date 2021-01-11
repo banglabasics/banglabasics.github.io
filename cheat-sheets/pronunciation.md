@@ -34,22 +34,34 @@ You can click on the IPA for each sound to hear it pronounced.
 
 Bangla vowels can also be nasalized, which means that the sound goes through the nose
 like in English 'huh?' and 'uh-huh'.
-Some Bangladeshi dialects have either very weak nasalization or no nasalization at all,
-so it's fine if you struggle to pronounce them.
-Nasalization is indicated with a tilde (~) over the vowel.
-Here are some words that feature each nasalized vowel:
-- কাঁদা *kãda* 'to cry'
-- ইঁদুর *ĩdur* 'mouse'
-- ঝুঁকি *jhũki* 'risk'
-- পেঁয়াজ *pẽaj* 'onion'
-- হ্যাঁ *hễ* 'yes'
-- ধোঁয়া *dhõa* 'smoke'
-- পঁচাশি *pỗcashi* 'eighty-five'
+Nasalization is indicated with a tilde (~) above the vowel.
+In Bangladeshi dialects, nasalized vowels are often either left out or pronounced as *n*.
+Below is a comparison of how words with nasalized vowels are pronounced in
+Standard Bengali and in Bangladeshi Bengali.
 
-### Vowel Sequences
+| Word | Standard | Bangladeshi |
+| :--- | :------- | :---------- |
+| কাঁদা 'to cry' | kãda | kanda, kada |
+| ইঁদুর 'mouse' | ĩdur | indur, idur |
+| ঝুঁকি 'risk' | jhũki | jhuki |
+| পেঁয়াজ 'onion' | pẽaj | peaj |
+| হ্যাঁ 'yes' | hễ | hễ |
+| ধোঁয়া 'smoke' | dhõa | dhoa |
+| পঁচাশি 'eighty-five' | pỗcashi | pôcashi |
 
-When multiple vowels occur in a row, each vowel keeps its original pronunciation.
-For example, কেউ *keu* 'someone' is pronounced as *ke* + *u*.
+Note that হ্যাঁ *hễ* 'yes' is always pronounced with a nasalized vowel,
+even in dialects that don't use nasalized vowels in other words.
+
+### The semivowels *y* and *w*
+
+The semivowel *y* occurs between vowels and is pronounced more like *e*,
+kind of like the **y** in la**y**er: *chaya, bayu, nôyon, mayer, diye, meye*.
+
+Before a consonant, *y* sounds like *e*: *khay = khae, dêy = dêe, hôy = hôe*.
+
+The semivowel *w* occurs between vowels and is pronounced more like *o*,
+kind of like the **w** in lo**w**er: *gawa, hôwa, dêwa*.
+
 
 ## Consonants
 [<a href="https://www.google.com/books/edition/Bengali/C7vz0ABJnJsC?hl=en&gbpv=0" target="_blank">Thompson</a> pp. 16--18]
@@ -76,7 +88,7 @@ the Bangla velars are quite similar.
 | **g** | <a href="https://upload.wikimedia.org/wikipedia/commons/1/12/Voiced_velar_plosive_02.ogg" target="_blank">/g/</a> | **g** as in **g**o | গা ***g**a* 'body' |
 | **gh** | /gʱ/ | aspirated *g*; like the **gh** in do**gh**ouse | ঘোড়া ***gh**oṛa* 'horse' |
 
-### Palatal stops (*č, čh, j ,jh*)
+### Palatal stops (*c, ch, j ,jh*)
 
 The <a href="https://en.wikipedia.org/wiki/Palatal_consonant" target="_blank">palatal</a>
 stops are really palatal affricates,
@@ -84,18 +96,20 @@ much like English **ch** as in **ch**in or **j** as in **j**uice.
 
 | Letter | <a href="https://www.ipachart.com" target="_blank">IPA</a> | Pronunciation | Example |
 | :---: | :-: | :------------ | :------ |
-| **č** | <a href="https://upload.wikimedia.org/wikipedia/commons/c/c4/Voiceless_alveolo-palatal_affricate.ogg" target="_blank">/t͡ɕ/</a> | **ch** as in **ch**in, but with no aspiration | চা ***č**a* 'tea' |
-| **čh** | /t͡ɕʰ/ | aspirated **ch** as in **ch**in | গাছ *ga**čh*** 'tree, plant' |
+| **c** | <a href="https://upload.wikimedia.org/wikipedia/commons/c/c4/Voiceless_alveolo-palatal_affricate.ogg" target="_blank">/t͡ɕ/</a> | **ch** as in **ch**in, but with no aspiration | চা ***c**a* 'tea' |
+| **ch** | /t͡ɕʰ/ | aspirated **ch** as in **ch**in | গাছ *ga**ch*** 'tree, plant' |
 | **j** | <a href="https://upload.wikimedia.org/wikipedia/commons/c/c1/Voiced_alveolo-palatal_affricate.ogg" target="_blank">/d͡ʑ/</a> | **j** as in **j**uice | জানা ***j**ana* 'to know' |
 | **jh** | /d͡ʑʱ/ | aspirated *j*; like the **dgeh** in he**dgeh**og | ঝাল ***jh**al* 'spicy' |
+
+Note that *c* is pronounced like the **ch** in **ch**in,
+not like the **c** in **c**ar.
+You'll sometimes see Bengali people write *c* and *ch* as *ch* and *chh*
+when writing Bangla informally using the Latin alphabet.
+For example, চা *ca* 'tea' would be written *cha*.
 
 In some dialects in Bangladesh, *c* and *ch* are pronounced like **s** in **s**un,
 and *j* and *jh* are pronounced like *z* in *z*one.
 In these dialects, *a**ch**e* 'there is/are' is pronounced as *a**s**e*.
-
-You'll usually see Bengali people write *č* and *čh* as *ch* and *chh*
-when writing Bangla informally using the Latin alphabet.
-For example, চা *ča* 'tea' would be written *cha*.
 
 ### Retroflex stops (*ṭ, ṭh, ḍ, ḍh*)
 
@@ -172,4 +186,49 @@ are pronounced exactly the way they are in English!
 | **s** | /s/ | **s** in **s**un | আস্তে *a**s**te* 'slowly' |
 | **h** | /ɦ/ | **h** in **h**ot | হাত ***h**at* 'hand' |
 
+The sound *s* usually doesn't occur on its own.
+It's usually found before another consonant:
+*আস্তে aste, বিশ্লেষণ bisleshon, বিস্ফোরণ bisphoron, শ্রেষ্ঠ sreshṭho*.
+It's also used in loanwords from other languages:
+*স্টেশন sṭeshon* 'station', *সাইক্লোন saiklon* 'cyclone'.
+
+
 ### Liquids (*r, ṛ, ṛh, l*)
+
+There are three <a href="https://en.wikipedia.org/wiki/Rhotic_consonant" target="_blank">rhotics</a>,
+or R-like sounds, in Bengali: *r*, *ṛ*, and *ṛh*.
+The pronunciation of these sounds varies a lot from dialect to dialect.
+
+In most Bangladeshi dialects,
+*r*, *ṛ*, and *ṛh* are all pronounced as
+<a href="https://upload.wikimedia.org/wikipedia/commons/1/1f/Alveolar_approximant.ogg" target="_blank">/ɹ/</a>,
+or like the **r** in **r**ed.
+
+In most West Bengali dialects,
+*r*, *ṛ*, and *ṛh* are pronounced differently.
+- *r* can be pronounced anywhere from the **r** in **r**ed to the
+  tapped **r** in Spanish ca**r**o.
+- *ṛ* is pronounced with as a tap with your tongue curled back,
+  like a cross between English **r** and **d**.
+  It's kind of like the **rd** in ga**rd**en in the General American accent.
+  In IPA, this sound is written
+  <a href="https://upload.wikimedia.org/wikipedia/commons/8/87/Retroflex_flap.ogg" target="_blank">/ɽ/</a>.
+- *ṛh* is like *ṛ* but with aspiration,
+  kind of like the **rdh** in gua**rdh**ouse in the General American accent.
+  In IPA, this sound is written /ɽʱ/.
+
+The sounds *ṛ* and *ṛh* cannot occur at the beginning of a word.
+
+The sound *l* is pronounced
+<a href="https://upload.wikimedia.org/wikipedia/commons/b/bc/Alveolar_lateral_approximant.ogg" target="_blank">/l/</a>,
+like the **l** in **l**eave.
+Keep in mind that this sound is quite light in Bangla,
+not like the dark **l** in bott**l**e.
+
+### Other consonants (*z, y, w*)
+
+The sound *z* /z/ is pronounced just like English **z**, as in **z**ipper.
+This sound is only used in loanwords from other languages,
+such as জাকাত *zakat* 'charity', which comes from Arabic.
+Many speakers will replace *z* with *j*,
+pronouncing জাকাত as *jakat* instead.

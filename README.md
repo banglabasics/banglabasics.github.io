@@ -1,2 +1,3 @@
-# bengali
-An introduction to Bengali grammar
+# Bangla Basics
+
+Bangla Basics is a guide to Bangla (Bengali) grammar.
