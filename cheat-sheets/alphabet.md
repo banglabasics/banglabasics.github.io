@@ -129,7 +129,9 @@ where in the mouth they are pronounced.
   - At the end of a word or before a consonant, য় sounds like a very short এ *e*:
     খায় *khay* sounds like *khae*.
   - The combination এয়ে *eye* is pronounced like a doubly long *e*:
-    মেয়ে *meye* sounds like *me-e*.
+    মেয়ে *meye* 'girl' sounds like *me-e*.
+  - The combination ওয়া is pronounced *wa*:
+    নেওয়া *nêwa* 'to take', যাওয়া *jawa* 'to go', হওয়া *hôwa* 'to be'.
 
 ### Other Symbols
 - ৎ *khônḍo tô* is pronounced *t* and is used only at the end of a syllable in word
