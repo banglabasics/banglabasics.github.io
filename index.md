@@ -10,9 +10,9 @@ as well as the dialect of Bangla spoken in Dhaka, the capital of Bangladesh.
 Our content is free for everyone!
 
 This website is divided into three major sections:
-- [**Lessons**](/bangla/lessons) contains all of our Bangla lessons.
+- [**Lessons**](/lessons) contains all of our Bangla lessons.
   Beginners should start here!
-- [**Cheat Sheets**](/bangla/cheat-sheets) are quick reference pages, including the alphabet and grammatical tables.
-- [**Resources**](/bangla/resources) is a list of other resources that you might find helpful.
+- [**Cheat Sheets**](/cheat-sheets) are quick reference pages, including the alphabet and grammatical tables.
+- [**Resources**](/resources) is a list of other resources that you might find helpful.
 
 Start learning Bangla today!

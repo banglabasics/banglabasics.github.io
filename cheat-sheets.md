@@ -8,6 +8,6 @@ This isn't a comprehensive guide, so I highly recommend a book like Hanne-Ruth T
 <a href="https://www.google.com/books/edition/Bengali/C7vz0ABJnJsC?hl=en&gbpv=0" target="_blank">*Bengali*</a>.
 I've included page numbers from Thompson's book throughout these pages for further reading.
 
-[**Pronunciation**](/bangla/cheat-sheets/pronunciation/)
+[**Pronunciation**](/cheat-sheets/pronunciation/)
 
-[**Bangla Alphabet**](/bangla/cheat-sheets/alphabet/)
+[**Bangla Alphabet**](/cheat-sheets/alphabet/)
