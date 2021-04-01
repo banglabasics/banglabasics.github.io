@@ -30,6 +30,7 @@ Western dialects tend to use -গুলো *gulo* instead of -গুলা *gula
 | **locative**   | -এ *-e*, -য় *-y* <br> -তে *-te* | -টায় *-ṭay* <br> -টাতে *ṭate* | -গুলায় *-gulay* <br> -গুলাতে *-gulate* |
 
 The table below shows these suffixes with the noun বাটি *baṭi* 'bowl'.
+
 | | indefinite | definite singular | definite plural |
 | :- | :- | :- | :-|
 | **nominative** | বাটি *baṭi* <br> 'bowl(s)' | বাটিটা *baṭiṭa* <br> 'the bowl' | বাটিগুলা *baṭigula* <br> 'the bowls'
@@ -52,6 +53,7 @@ and in Standard Bengali, and -দের(কে) *-der(ke)* in many eastern diale
 | **genitive**   | -(এ)র *-(e)r* | -টার *-ṭar* | -দের *-der*
 
 The table below shows these suffixes with the noun ছাত্র *chatro* 'student'
+
 | | indefinite | definite singular | definite plural |
 | :- | :- | :- | :-|
 | **nominative** | ছাত্র *chatro* <br> 'student(s)' | ছাত্রটা *chatroṭa* <br> 'the student' | ছাত্ররা *-ra* <br> '(the) students'
@@ -98,11 +100,25 @@ which can also be preceded by a definite suffix.
 
 ### Nominative Case
 
-The direct case is the form of the noun without any extra suffixes
-It is used for the subject of a verb,
-like the nominative case in many European languages.
+The nominative case is the form of the noun without any extra case suffixes.
+It is used for the subject of a verb, like the nominative case in many European languages.
+
+> মা কাজ করছে। <br>
+> *Ma kaj korche.* <br>
+> 'Mother is working.'
+
+The nominative case is also used when the direct object of a verb is an inanimate noun.
+
+> ছেলেটা ভাত খাচ্ছে। <br>
+> *Cheleṭa bhat khacche.* <br>
+> 'The boy is eating.'
 
 ### Objective Case
+
+The objective case is used when the object of a verb is animate.
+The suffix for the objective case is -কে *-ke*.
+
+> বাবা
 
 ### Genitive Case
 
