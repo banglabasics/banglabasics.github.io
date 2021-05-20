@@ -3,13 +3,13 @@ layout: ref
 title: Nouns
 ---
 
-Nouns in Bangla are quite regular. 
+Nouns in Bangla are quite regular.
 Bengali has no grammatical gender;
 rather, we can classify nouns into two groups:
 animate and inanimate.
 Nouns referring to people and deities are animate.
 Nouns referring to non-living things are inanimate.
-Nouns referring to animals can be animate or inanimate 
+Nouns referring to animals can be animate or inanimate
 depending on the context.
 
 ## Summary of suffixes
@@ -17,7 +17,7 @@ depending on the context.
 ### Inanimate nouns
 
 Inanimate nouns use the suffixes in the table below.
-In the definite singular suffixes, 
+In the definite singular suffixes,
 -টা *-ṭi* can be replaced with -টি *-ṭi* to sound slightly more formal.
 Likewise, -গুলা *-gula* can be replaced with -গুলি *-guli* to sound slightly more formal.
 Western dialects tend to use -গুলো *gulo* instead of -গুলা *gula*.
@@ -71,18 +71,19 @@ These suffixes are as follows:
 | :--------------- | :----- | :----- |
 | **unmarked**          | (none) | (none) |
 | **definite singular** | -টা *-ṭa* <br> -টি *-ṭi* | -টা *ṭa* <br> -টি *-ṭi* |
-| **definite plural**   | -গুলা *-gula* (East), -গুলো *-gulo* (West) <br> -গুলি *-guli* | -(এ)রা *-(e)ra* | 
+| **definite plural**   | -গুলা *-gula* (East), -গুলো *-gulo* (West) <br> -গুলি *-guli* | -(এ)রা *-(e)ra* |
 
 Where there are multiple suffixes, the one at the top is the most common one.
 The suffixes -টি *-ṭi* and -গুলি *-guli* are basically equivalent to their counterparts,
 but they can also indicate sympathy or smallness.
 
 The animate plural suffix has three forms:
-- -রা *-ra* after vowels 
+
+- -রা *-ra* after vowels
   - মহিলা *mohila* 'woman' > মহিলারা *mohilara* '(the) women'
-- -এরা *-era* after consonants 
+- -এরা *-era* after consonants
   - বোন *bon* 'sister' > বোনেরা *bonera* '(the) sisters'
-- -য়েরা *-yera* after one-syllable words that end in a vowel 
+- -য়েরা *-yera* after one-syllable words that end in a vowel
   - মা *ma* 'mother' > মায়েরা *mayera* '(the) mothers'
 
 This suffix is not necessarily definite;
