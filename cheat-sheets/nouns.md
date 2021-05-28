@@ -150,6 +150,6 @@ Nouns ending in a consonant cluster plus *o*
 have the final *o* replaced by -এর *-er* in the genitive.
 
 > সমুদ্র *shomudro* 'ocean' > সমুদ্রের পানি *shomudrer pani* 'ocean's water' <br>
-> সূর্য *shurjo* 'sun' > সূর্যের আলো  *shurjer alo* 'sun's light (i.e. sunlight)'
+> সূর্য *shurjo* 'sun' > সূর্যের আলো *shurjer alo* 'sun's light (i.e. sunlight)'
 
 ### Locative Case
