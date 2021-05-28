@@ -15,6 +15,7 @@ An IPA chart with audio is available at
 A rough English pronunciation is also given for each sound.
 
 ## Vowels
+
 [<a href="https://www.google.com/books/edition/Bengali/C7vz0ABJnJsC?hl=en&gbpv=0" target="_blank">Thompson</a> pp. 12--16]
 
 Bangla has seven distinct vowel sounds, much like Italian.
@@ -62,8 +63,8 @@ Before a consonant, *y* sounds like *e*: *khay = khae, dêy = dêe, hôy = hôe*
 The semivowel *w* occurs between vowels and is pronounced more like *o*,
 kind of like the **w** in lo**w**er: *gawa, hôwa, dêwa*.
 
-
 ## Consonants
+
 [<a href="https://www.google.com/books/edition/Bengali/C7vz0ABJnJsC?hl=en&gbpv=0" target="_blank">Thompson</a> pp. 16--18]
 
 An important feature of Bangla consonants is called aspiration,
@@ -192,7 +193,6 @@ It's usually found before another consonant:
 It's also used in loanwords from other languages:
 *স্টেশন sṭeshon* 'station', *সাইক্লোন saiklon* 'cyclone'.
 
-
 ### Liquids (*r, ṛ, ṛh, l*)
 
 There are three <a href="https://en.wikipedia.org/wiki/Rhotic_consonant" target="_blank">rhotics</a>,
@@ -206,6 +206,7 @@ or like the **r** in **r**ed.
 
 In most West Bengali dialects,
 *r*, *ṛ*, and *ṛh* are pronounced differently.
+
 - *r* can be pronounced anywhere from the **r** in **r**ed to the
   tapped **r** in Spanish ca**r**o.
 - *ṛ* is pronounced with as a tap with your tongue curled back,
