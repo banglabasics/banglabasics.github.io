@@ -119,8 +119,37 @@ The nominative case is also used when the direct object of a verb is an inanimat
 The objective case is used when the object of a verb is animate.
 The suffix for the objective case is -কে *-ke*.
 
-> বাবা
+> অনিতাকে ভাত দিয়েছি। <br>
+> *Ônitake bhat diyechi.* <br>
+> 'I gave rice to Anita.'
+
+In the animate definite plural suffix -দের(কে) *-der(ke)*,
+the suffix -কে *-ke* is optional.
+
+> মেয়েদের(কে) ভাত দিয়েছি। <br>
+> *Meyeder(ke) bhat diyechi.* <br>
+> 'I gave rice to the girls.'
 
 ### Genitive Case
+
+The genitive case is used for the possessor of another noun.
+In general, the suffix for the genitive case is
+-র *-r* for nouns ending in a vowel and
+-এর *-er* for nouns ending in a consonant.
+
+> গরু *goru* 'cow' > গরুর মাংস *gorur mangsho* 'cow's meat (i.e. beef)' <br>
+> চাঁদ *cãd* 'moon' > চাঁদের আলো  *cãder alo* 'moon's light (i.e. moonlight)'
+
+One-syllable nouns ending in a vowel take the suffix
+-য়ের *-yer*.
+
+> মা *ma* 'mother' > মায়ের আদর *mayer ador* 'mother's affection' <br>
+> বই *boi* 'book' > বইয়ের পাতা *boiyer pata* 'book's pages'
+
+Nouns ending in a consonant cluster plus *o*
+have the final *o* replaced by -এর *-er* in the genitive.
+
+> সমুদ্র *shomudro* 'ocean' > সমুদ্রের পানি *shomudrer pani* 'ocean's water' <br>
+> সূর্য *shurjo* 'sun' > সূর্যের আলো  *shurjer alo* 'sun's light (i.e. sunlight)'
 
 ### Locative Case
