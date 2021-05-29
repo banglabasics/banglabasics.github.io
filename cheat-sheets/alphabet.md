@@ -18,12 +18,15 @@ Details on the pronunciation of each letter is available on the
 [pronunciation cheat sheet](/bangla/cheat-sheets/pronunciation/).
 
 ## Vowels
+
 [<a href="https://www.google.com/books/edition/Bengali/C7vz0ABJnJsC?hl=en&gbpv=0" target="_blank">Thompson</a> pp. 31--32]
 
 The eleven vowel letters in Bangla are called the স্বরবর্ণ *shôrobôrno*.
 Each vowel letter has two forms:
+
 - the full letter used at the beginning of a word and after vowels, and
 - the vowel mark used after consonants.
+
 The table below shows each vowel letter in both forms,
 the name of the letter,
 and the letter's pronunciation.
@@ -34,7 +37,8 @@ and the letter's pronunciation.
 | **উ ু** <br> hrôssho u <br> u | **ঊ ূ** <br> dirgho u <br> u | **ঋ ৃ** <br> ri <br> ri | |
 | **এ ে** <br> e <br> e, ê | **ঐ ৈ** <br> oi <br> oi | **ও ো** <br> o <br> o | **ঔ ৌ** <br> ou <br> ou |
 
-#### Notes
+### Vowel Notes
+
 - The vowels are classified as "short" and "long" for purely historical reasons.
   Bangla doesn't distinguish between short and long vowels.
 - You'll notice that both ই and ঈ make the same sound *i*,
@@ -73,6 +77,7 @@ The following table shows the vowel marks corresponding to each of the full vowe
 | ঔ | ৌ | ou-kar | **সৌ**ন্দর্য sh**ou**ndorjo 'beauty' |
 
 Some vowel marks are irregular with certain consonants:
+
 - গ *gô* + ু *hrosshu-kar* = গু *gu*: গুণ *gun* 'virtue'
 - শ *talobbo shô* + ু *hrosshu-kar* = শু *shu*: শুক্রবার *shukrobar* 'Friday'
 - ন *donto nô* + ত *tô* + ু *hrosshu-kar* = ন্তু *ntu*: কিন্তু *kintu* 'but'
@@ -84,6 +89,7 @@ Some vowel marks are irregular with certain consonants:
 - হ *hô* + ৃ *ri-kar* = হৃ *hri*: হৃদয় *hridôy* 'heart'
 
 ## Consonants
+
 [<a href="https://www.google.com/books/edition/Bengali/C7vz0ABJnJsC?hl=en&gbpv=0" target="_blank">Thompson</a> pp. 32-35]
 
 The consonant letters are called ব্যঞ্জনবর্ণ *bênjonbôrno*.
@@ -110,7 +116,7 @@ where in the mouth they are pronounced.
 | **শ** talobbo shô <br> sh, s |  **ষ** murdhônno shô <br> sh |  **স** donto shô <br> sh, s |  **হ** hô <br> h |
 | **ড়** ḍôy shunno ṛô <br> ṛ | **ঢ়** ḍhôy shunno ṛhô <br> ṛh | **য়** ôntostho ô <br> y, w |
 
-#### Notes
+### Consonant Notes
 
 - The two *jô*s (জ *borgiyo jô* and য *ôntostho jô*) are both pronounced *j*.
 - In some Bangladeshi dialects, চ *cô* and ছ *chô* are pronounced *s*,
@@ -134,6 +140,7 @@ where in the mouth they are pronounced.
     নেওয়া *nêwa* 'to take', যাওয়া *jawa* 'to go', হওয়া *hôwa* 'to be'.
 
 ### Other Symbols
+
 - ৎ *khônḍo tô* is pronounced *t* and is used only at the end of a syllable in word
   derived from Sanskrit: বিদ্যুৎ *biddut* 'lightning'.
 - ং is called *onusshôr* or *onusshar* and is used for the *ng* sound at the end of a syllable:
@@ -151,6 +158,7 @@ Multiple consonants without a vowel between them are written as conjunct letters
 made up of multiple consonant letters.
 Conjunct letters are called যুক্তাক্ষর *juktakkhor* in Bangla.
 Most of the time, the constituent consonants of a conjunct are easily recognizable:
+
 - ক *kô* + ক *kô* = ক্ক *kkô*
 - স *donto shô* + প *pô* = স্প *spô*
 - ম *mô* + প *pô* = ম্প *mpô*  
@@ -181,11 +189,13 @@ which doubles the preceding consonant:
 
 The conjunct ক *kô* + ষ *murdhônno shô* = ক্ষ is called *khiyô*
 and is often considered an entirely separate letter.
+
 - At the beginning of a word, it is pronounced *kh*: ক্ষতি *khoti* 'harm'.
 - In the middle of a word, it is pronounced *kkh*: অক্ষর *ôkkhor* 'letter'.
 - The conjunct ক্ষ *khiyô* + ম mô = ক্ষ্ম is also pronounced *kkh*: লক্ষ্মী *lokkhi* 'Lakshmi'.
 
 Some conjuncts are more irregularly formed:
+
 - ক *kô* + ত *tô* = ক্ত *ktô*: ডাক্তার *ḍaktar* 'doctor'
 - ক *kô* + ষ *murdhônno shô* = ক্ষ *khiyô*: অপেক্ষা *ôpekkha* 'await'
 - ক *kô* + র *rô* = ক্র *krô*: শুক্রবার *shukrobar* 'Friday'
