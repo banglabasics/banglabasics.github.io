@@ -226,7 +226,7 @@ like the **l** in **l**eave.
 Keep in mind that this sound is quite light in Bangla,
 not like the dark **l** in bott**l**e.
 
-### Other consonants (*z, y, w*)
+### Other consonants (*z*)
 
 The sound *z* /z/ is pronounced just like English **z**, as in **z**ipper.
 This sound is only used in loanwords from other languages,
