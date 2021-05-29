@@ -27,7 +27,7 @@ Western dialects tend to use -গুলো *gulo* instead of -গুলা *gula
 | **nominative** | (none) | -টা *-ṭa* | -গুলা *-gula*
 | **objective**  | (none) | -টা *-ṭa* | -গুলা *-gula*
 | **genitive**   | -(এ)র *-(e)r* | -টার *-ṭar* | -গুলার *-gular*
-| **locative**   | -এ *-e*, -য় *-y* <br> -তে *-te* | -টায় *-ṭay* <br> -টাতে *ṭate* | -গুলায় *-gulay* <br> -গুলাতে *-gulate* |
+| **locative**   | -এ *-e*, -য় *-y* <br> -তে *-te* | -টায় *-ṭay* <br> -টাতে *-ṭate* | -গুলায় *-gulay* <br> -গুলাতে *-gulate* |
 
 The table below shows these suffixes with the noun বাটি *baṭi* 'bowl'.
 
@@ -35,8 +35,8 @@ The table below shows these suffixes with the noun বাটি *baṭi* 'bowl'.
 | :- | :- | :- | :-|
 | **nominative** | বাটি *baṭi* <br> 'bowl(s)' | বাটিটা *baṭiṭa* <br> 'the bowl' | বাটিগুলা *baṭigula* <br> 'the bowls'
 | **objective**  | বাটি *baṭi* <br> 'bowl(s)' | বাটিটা *baṭiṭa* <br> 'the bowl' | বাটিগুলা *baṭigula* <br> 'the bowls'
-| **genitive**   | বাটির *-(e)r* <br> 'of bowl(s)' | বাটিটার *-ṭar* <br> 'of the bowl' | বাটিগুলার *-gular* <br> 'of the bowls'
-| **locative**   | বাটিতে *-te* <br> 'in bowl(s)' | বাটিটায় *-ṭay* <br> বাটিটাতে *ṭate* <br> 'in the bowl' | বাটিগুলায় *gulay* <br> বাটিগুলাতে *gulate* <br> 'in the bowls' |
+| **genitive**   | বাটির *baṭir* <br> 'of bowl(s)' | বাটিটার *baṭiṭar* <br> 'of the bowl' | বাটিগুলার *baṭigular* <br> 'of the bowls'
+| **locative**   | বাটিতে *baṭite* <br> 'in bowl(s)' | বাটিটায় *baṭiṭay* <br> বাটিটাতে *baṭiṭate* <br> 'in the bowl' | বাটিগুলায় *baṭigulay* <br> বাটিগুলাতে *batigulate* <br> 'in the bowls' |
 
 ### Animate nouns
 
@@ -56,9 +56,9 @@ The table below shows these suffixes with the noun ছাত্র *chatro* 'stu
 
 | | indefinite | definite singular | definite plural |
 | :- | :- | :- | :-|
-| **nominative** | ছাত্র *chatro* <br> 'student(s)' | ছাত্রটা *chatroṭa* <br> 'the student' | ছাত্ররা *-ra* <br> '(the) students'
-| **objective**  | ছাত্রকে *chatro* <br> '(to) student(s)' | ছাত্রটাকে *-ṭa* <br> '(to) the student' | ছাত্রদের(কে) *-der(ke)* <br> '(to the) students'
-| **genitive**   | ছাত্রের *chatrer* <br> 'of student(s)' | ছাত্রটার *chatroṭar* <br> 'of the student' | ছাত্রদের *-der* <br> 'of (the) students'
+| **nominative** | ছাত্র *chatro* <br> 'student(s)' | ছাত্রটা *chatroṭa* <br> 'the student' | ছাত্ররা *chatrora* <br> '(the) students'
+| **objective**  | ছাত্রকে *chatro* <br> '(to) student(s)' | ছাত্রটাকে *chatroṭake* <br> '(to) the student' | ছাত্রদের(কে) *chatroder(ke)* <br> '(to the) students'
+| **genitive**   | ছাত্রের *chatrer* <br> 'of student(s)' | ছাত্রটার *chatroṭar* <br> 'of the student' | ছাত্রদের *chatroder* <br> 'of (the) students'
 
 ## Definiteness and Number
 
@@ -153,3 +153,21 @@ have the final *o* replaced by -এর *-er* in the genitive.
 > সূর্য *shurjo* 'sun' > সূর্যের আলো *shurjer alo* 'sun's light (i.e. sunlight)'
 
 ### Locative Case
+
+The locative case is used to indicate location in space or time.
+Its usage roughly overlaps with the English prepositions 'in', 'on', and 'at'.
+The suffix for the locative case is -এ *-e* for nouns ending in a consonant.
+
+> বাংলাদেশ *Bangladesh* 'Bangladesh' > বাংলাদেশে *Bangladeshe* 'in Bangladesh' <br>
+> টেবিল *ṭebil* 'table' > টেবিলে *ṭebile* 'on (the) table'
+
+Nouns that end in a vowel can take the locative suffix -তে *-te*.
+
+> বাড়ি *baṛi* 'house' > বাড়িতে *baṛite* 'in (the) house' <br>
+> আমেরিকা *Amerika* 'America' > আমেরিকাতে *Amerikate* 'in America'
+
+Nouns that end in vowels other than *e* or *i* can alternatively
+take the locative suffix -য় *-y*.
+
+> বাসা *basha* 'home' > বাসায় *bashay* 'at home' <br>
+> আমেরিকা *Amerika* 'America' > আমেরিকায় *Amerikay* 'in America'
