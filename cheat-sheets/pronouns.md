@@ -8,7 +8,7 @@ based on the case, or the function of the pronoun
 in a sentence.
 For more information on how each of the cases is used,
 see our section on
-[**noun cases**](/cheat-sheets/nouns#cases/).
+[**noun cases**](/cheat-sheets/nouns#cases).
 
 ## First-Person Pronouns
 
