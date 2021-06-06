@@ -123,8 +123,10 @@ The suffix for the objective case is -কে *-ke*.
 > *Ônitake bhat diyechi.* <br>
 > 'I gave rice to Anita.'
 
-In the animate definite plural suffix -দের(কে) *-der(ke)*,
-the suffix -কে *-ke* is optional.
+In standard Bangla, the animate definite plural suffix is
+-দের *-der*.
+In many dialects of Bangla, especially in Bangladesh,
+the suffix used is -দেরকে *-derke*.
 
 > মেয়েদের(কে) ভাত দিয়েছি। <br>
 > *Meyeder(ke) bhat diyechi.* <br>
