@@ -11,3 +11,5 @@ I've included page numbers from Thompson's book throughout these pages for furth
 [**Pronunciation**](/cheat-sheets/pronunciation/)
 
 [**Bangla Alphabet**](/cheat-sheets/alphabet/)
+
+[**Nouns**](/cheat-sheets/nouns/)
