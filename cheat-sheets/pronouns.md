@@ -178,7 +178,7 @@ the forms of উনি *uni* differ from the standard forms.
 These are the forms that most speakers will use
 in daily conversation.
 
-|    | singular | plu ral |
+|    | singular | plural |
 | :- | :------- | :----- |
 | **nominative** | উনি *uni* <br> 'he, she' | ওনারা *onara* / <br> উনারা *unara* <br> 'they' |
 | **objective**  | ওনাকে *onake* / <br> উনাকে *unake* <br> '(to) him, her' | ওনাদের(কে) *onader(ke)* / <br> উনাদেরকে *unaderke* <br> '(to) them' |
